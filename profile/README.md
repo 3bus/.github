@@ -1,8 +1,8 @@
 # 😼 We are Team 3bus
 We've made the app **Bustle** that allows you to earn points while you ride on your bus journey!
 
-Check the app out here: [bustle.alv.nz/](https://bustle.alv.nz/){:target="_blank"}
-and the map visualisation here: [bustle-map.alv.nz](https://bustle-map.alv.nz/){:target="_blank"}
+Check the app out here: [bustle.alv.nz/](https://bustle.alv.nz/)
+and the map visualisation here: [bustle-map.alv.nz](https://bustle-map.alv.nz/)
 
 ## 🎥 Watch our Video
 ![YouTube Video Views](https://img.shields.io/youtube/views/GBad4Pu6kyk?style=social)
