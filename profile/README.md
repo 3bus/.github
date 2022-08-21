@@ -1,6 +1,6 @@
 # We are Team 3bus
 
-We've made app **Bustle* that allows you to earn points while you ride on your bus journey!
+We've made app **Bustle** that allows you to earn points while you ride on your bus journey!
 
 Check it out at [bustle.netlify.app](https://bustle.netlify.app/)
 
