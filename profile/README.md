@@ -4,4 +4,10 @@ We've made app **Bustle** that allows you to earn points while you ride on your 
 
 Check it out at [bustle.netlify.app](https://bustle.netlify.app/)
 
+## Source code
+- **Bustle app** - [3bus/app-boi](https://github.com/3bus/app-boi)
+- **Map visualisation** - [3bus/map-boi](https://github.com/3bus/map-boi)
+
+## Credits
+
 Brought to you by [Minh](https://github.com/MinhPhu0304), [Ilia](https://github.com/noway), [Alex](https://github.com/Alxjlv), [Anthony Wong](https://github.com/anthonywongnz), [Anthony](https://github.com/JacobKorn), [Janice](https://standardresume.co/r/ccsjanice), [Caleb](https://github.com/Calebhino), [Walter Lim](https://github.com/waltzaround), [Russell Bloxwich](https://github.com/RussellBloxwich) and [John Cave](https://github.com/johncave).
